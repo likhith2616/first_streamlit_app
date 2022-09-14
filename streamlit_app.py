@@ -11,3 +11,6 @@ streamlit.text('2. Omega 3 & Blueberry Oatmeal')
 streamlit.text('3. Kale, Spinach & Rocket Smoothie')
 streamlit.text('4. Hard-Boiled Free-Range Egg')
 streamlit.text('5. Avacado')
+streamlit.text('-------------------------------------------------------------')
+
+streamlit.header('Build Your Own Fruit Smoothie')
